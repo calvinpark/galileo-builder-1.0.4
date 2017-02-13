@@ -14,7 +14,6 @@ RUN apt-get update && apt-get install -y \
 	build-essential \
 	chrpath connect-proxy curl \
 	diffstat \
-	expect \
 	gawk gcc-multilib git \
 	iasl \
 	libcurl4-openssl-dev libssl-dev libtool \
